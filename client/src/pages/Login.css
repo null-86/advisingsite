@@ -1,0 +1,80 @@
+.Header {
+  font-size: 30px;
+  word-wrap: break-word;
+  background-color:  #480B0B;
+  color: #FFFFFF;
+  font-family: "roboto";
+  font-weight: 500;
+  text-shadow: 2px 2px gray;
+  text-align: center;
+}
+
+.Subheader {
+  background-color: #480B0B;
+  color: white;
+  text-shadow: .4px .4px gray;
+  font-weight: 550;
+  text-align: center;
+}
+
+.Card {
+  background-color: #480B0B !important;
+  color: white;
+  font-size: 4vw;
+  text-align: center;
+}
+
+.Links {
+  text-indent: 3mm;
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+  border: 2px solid #d3d3d3;
+  border-radius: .5em;
+  width: 100%;
+  background-color: #fcfcfc;
+}
+
+.Linkrow {
+  padding: .5em;
+}
+
+.Login {
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+  border: 2px solid #d3d3d3;
+  border-radius: .5em;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  margin-top: 100px;
+  background-color: #fcfcfc;
+}
+
+.NavText {
+  color: white !important
+}
+
+.NavColor {
+  background-color: #480B0B;
+}
+
+h2 {
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding-bottom: 20px;
+}
+
+.form {
+  padding: 1em;
+}
+
+.LoginHeader{
+  background-color: #480B0B;
+}
+
+button {
+  justify-content: flex-end;
+}

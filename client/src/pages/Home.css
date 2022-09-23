@@ -1,0 +1,21 @@
+.LinkRow {
+    color: white;
+    background-color: gray;
+    text-align: center;
+    border: 2px solid #d3d3d3;
+    padding: 1.6%;
+    font-size: 25px;
+}
+
+.HomeHeader {
+    font-size: 4vw;
+    text-align: center;
+    color: #480B0B;
+    font-weight: 600;
+    font-family: 'Roboto';
+}
+
+.dropdown-menu {
+    height: 200px;
+    overflow-y: scroll;
+}
