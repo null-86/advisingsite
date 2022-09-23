@@ -1,0 +1,5 @@
+Cwid,FirstName,MiddleInitials,LastName,Email,AccountType
+1,Bob,J,Jones,jonesbj@test.edu,Advisor
+1000,Test,P,Name,test@test.com,Student
+30096130,Bijay,R,Poudel,poudelbr@warhawks.ulm.edu,Student
+30096131,Lorem,I,Ipsum,ipsuml@ulm.edu,Advisor
