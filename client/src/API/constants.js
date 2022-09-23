@@ -1,0 +1,1 @@
+export const LINK = "http://localhost:8080"; //link for server with port

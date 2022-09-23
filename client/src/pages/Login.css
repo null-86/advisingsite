@@ -1,0 +1,39 @@
+.Login {
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+  border: 2px solid #d3d3d3;
+  border-radius: .5em;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  margin-top: 100px;
+}
+
+.NewUser {
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+  border: 2px solid #d3d3d3;
+  border-radius: .5em;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  margin-top: 100px;
+}
+
+h2 {
+  font-weight: 500;
+  font-family: 'Fira Sans', sans-serif;
+  padding-bottom: 20px;
+}
+
+.form {
+  padding: 1em;
+}
+
+button {
+  justify-content: flex-end;
+}
