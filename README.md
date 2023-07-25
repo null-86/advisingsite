@@ -1,5 +1,37 @@
 # Advising Project
+Summary: This is a web application build with React, Expressjs, MySQL, and loaded onto an AWS instance running Apache server. This was developed as a group project in college. This application was designed to guide students and their advisors through class registration throughout their time in college. 
+
+Specifications: 
+
+1. Allow advisors to make available appointment time-slots.
+2. Allow students to register for time-slots.
+3. Track appointments for the Advisor and hide unavailable appointments for the students.
+4. Allow either students or advisors to create a list of classes per semester.
+5. Require the other party to verify the list of classes (dual control).
+6. Track course list per semester.
+
+Different Menu options were presented depending on whether the user was an advisor, student, or both (Edge-case).
+
+Data import was deemed outside the scope of the project by Professor, so we did not build an admin interface into the web app.
+
+** Data was encrypted at rest, but we did not implement https like we should have.**
+
+Issues: Folder organization was subpar. Lack of Https implementation. Duplicate components were created by separate members of the team due to lack of communication. CSS is all over the place. We were all 
+eager to learn, so we took vertical slices of the project where we developed different front-end UI, the back-end api calls that it needed, and the Database queries that the API relied on (prepared statements in an attempt to avoid Query Injection).
+
+Lessons learned: Folder structure is important, especially in larger projects. We also should've divided responsibilities more cleanly. The division we took allowed us to learn more, but it also made us all work much harder than necessary. A real project would benefit from role specialization. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
 > CSCI 4060 Capstone Project
+
 
 ## To Run
 - 'ctrl + ~' will open the terminal
